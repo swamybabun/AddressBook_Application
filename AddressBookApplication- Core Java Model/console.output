@@ -1,0 +1,124 @@
+
+ ================ Welcome to the Address Book Application ===================
+The current configuration of Address Book is on Single File :true
+Please select anyone of the following options  
+(1): Option 1 - Add a Contact 
+(2): Option 2 - Read a Contact 
+(3): Option 3 - Update a Contact 
+(4): Option 4 - Get All Contacts 
+(5): Option 5 - Delete a Contact 
+(6): Exit 
+
+1
+You Have Selected for Adding a new contact.. 
+
+Please Input the contact details as asked..
+Please Enter Name: John
+Please Enter SurName: 
+David
+Please Enter Telephone number: 
++352987456321
+Please Enter Email Address: 
+admin@gmail.com
+Please Enter Age: 
+25
+Please Enter Hair Colour: 
+black
+Please Select Contact Category from the following available options:  
+(1): FAMILY 
+(2): FRIENDS 
+(3): ACQUAINTANCE 
+(4): Exit
+1
+Please Enter description of family relationship from the following options: 
+1 -> PARENT
+
+2 -> GRANPARENT
+
+3 -> SON
+
+4 -> DAUGHTER
+
+5 -> AUNT
+
+6 -> UNCLE
+
+3
+Your contact is saved successfully and its generated id is 69842
+
+ ================ Welcome to the Address Book Application ===================
+The current configuration of Address Book is on Single File :true
+Please select anyone of the following options  
+(1): Option 1 - Add a Contact 
+(2): Option 2 - Read a Contact 
+(3): Option 3 - Update a Contact 
+(4): Option 4 - Get All Contacts 
+(5): Option 5 - Delete a Contact 
+(6): Exit 
+
+4
+You Have Selected for Reading All the contacts.. 
+
+The Existing contacts in Address Book are below (Sorted by Surname).... 
+
+69842 ----> Contact [id=69842, name=John, surname=David, telephoneNumber=+352987456321, email=admin@gmail.com, age=25, hairColour=black, contactCategory=ContactCategory [categoryName=FAMILY, categoryProperties={relationship=SON}]]
+
+
+================ Welcome to the Address Book Application ===================
+
+The current configuration of Address Book is on Single File :true
+Please select anyone of the following options  
+(1): Option 1 - Add a Contact 
+(2): Option 2 - Read a Contact 
+(3): Option 3 - Update a Contact 
+(4): Option 4 - Get All Contacts 
+(5): Option 5 - Delete a Contact 
+(6): Exit 
+
+2
+You Have Selected for Reading the existing contact.. Please Enter the contactId:  
+
+69842
+The contact details are...
+Contact [id=69842, name=John, surname=David, telephoneNumber=+352987456321, email=admin@gmail.com, age=25, hairColour=black, contactCategory=ContactCategory [categoryName=FAMILY, categoryProperties={relationship=SON}]]
+
+ ================ Welcome to the Address Book Application ===================
+The current configuration of Address Book is on Single File :true
+Please select anyone of the following options  
+(1): Option 1 - Add a Contact 
+(2): Option 2 - Read a Contact 
+(3): Option 3 - Update a Contact 
+(4): Option 4 - Get All Contacts 
+(5): Option 5 - Delete a Contact 
+(6): Exit 
+
+5
+You have selected for deleting the contact
+enter the contact id to delete
+69842
+The Selected contact has been deleted
+
+ ================ Welcome to the Address Book Application ===================
+The current configuration of Address Book is on Single File :true
+Please select anyone of the following options  
+(1): Option 1 - Add a Contact 
+(2): Option 2 - Read a Contact 
+(3): Option 3 - Update a Contact 
+(4): Option 4 - Get All Contacts 
+(5): Option 5 - Delete a Contact 
+(6): Exit 
+
+4
+You Have Selected for Reading All the contacts.. 
+
+The address book is empty..
+
+ ================ Welcome to the Address Book Application ===================
+The current configuration of Address Book is on Single File :true
+Please select anyone of the following options  
+(1): Option 1 - Add a Contact 
+(2): Option 2 - Read a Contact 
+(3): Option 3 - Update a Contact 
+(4): Option 4 - Get All Contacts 
+(5): Option 5 - Delete a Contact 
+(6): Exit 

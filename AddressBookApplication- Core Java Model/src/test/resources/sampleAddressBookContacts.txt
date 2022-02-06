@@ -1,0 +1,1 @@
+{"30042":{"id":30042,"name":"John ","surname":"David","telephoneNumber":"+35289878523","email":"admin@gmail.com","age":30,"hairColour":"black","contactCategory":{"categoryName":"ACQUAINTANCE","categoryProperties":{}}}}

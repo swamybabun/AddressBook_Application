@@ -1,0 +1,23 @@
+#########################################################################################################
+								HOW TO RUN
+##########################################################################################################
+
+==> The Address Book application is written in layered approach and made it loosely coupled to the layers and objects. </br>
+==> This Address book application supports single file or multiple files approach as per configuration we do. </br>
+==> The Address book TEXT files are written as JSON format for making it easy to manipulate and maintain. </br>
+==> This Application is written with intension of making it flexible and extensible.
+
+Especially, This Application is written in such a way that it can be worked in two ways.
+
+1) As a Stand Alone Application By running the main() method in com.mycompany.addressbook.AddressBookApplication class. </br>
+2) As a REST API using spring boot application. This can be observed by running com.mycompany.addressbook.SpringBootAddressBookApplication class.
+
+Dependencies:
+==============
+1) It runs without any additional library except jackson JSON library when running as stand alone core java application. </br>
+2) It runs with spring boot web and jackson JSON library when running it as spring boot application. 
+
+TODO:Next steps
+=================
+1) Logging with any one of logging framework.
+2) JUnit and Integration test cases can be authored.
