@@ -28,7 +28,7 @@ Once the application starts, the swagger documentation opens at [Home Page](http
 
 The sample of how swagger documentation looks can be seen below <br>
 
-![Image](./Swagger documentation.jpg)
+![Image](https://github.com/swamybabun/AddressBook_Application/blob/master/AddressBookApplication%20-%20Spring%20Boot%20Model/Swagger%20documentation.jpg)
 
 
 ### Sample Request and Response JSON
